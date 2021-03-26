@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FacundoPellejero
-- 👀 I’m interested in Java, Pyhon, JavaScript, Node.js
+- 👀 I’m interested in Java, Python, JavaScript, Node.js
 - 🌱 I’m currently learning full stack web development with Javascript, Vue js, Node.js and Express.js
 - 📫 How to reach me 
     -mail: facundopellejero.nt@gmail.com
