@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FacundoPellejero
 - 👀 I’m interested in Java, Python, JavaScript, Node.js
-- 🌱 I’m currently learning full stack web development with Javascript, Vue js, Angular 13, ASP.NET, Node.js and Express.js
+- 🌱 I’m currently learning full stack web development with Javascript, Angular 13, ASP.NET, Node.js and Express.js
 - 📫 How to reach me 
     -mail: facundopellejero.nt@gmail.com
 
