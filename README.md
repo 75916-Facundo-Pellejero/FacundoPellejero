@@ -1,5 +1,5 @@
 - A veces programo cosas
--mail: facundopellejero.nt@gmail.com
+- mail: facundopellejero.nt@gmail.com
 
 <!---
 FacundoPellejero/FacundoPellejero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
